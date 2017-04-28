@@ -22,4 +22,4 @@
   // who gave the advise and the date of the advise.
   // Any advise could **NOT** influence the compile of the original code.
   ```
-- We have a demo in this repository called demo, please do NOT modify it any way.
+- We have a demo in this repository called demo, please do ***NOT*** modify it any way.
